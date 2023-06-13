@@ -2,23 +2,23 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
+global.owner = ['6281395861695', '6282331494758']  
 global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
+global.prems = ['']
+global.nameowner = 'Natasya'
+global.numberowner = '' 
+global.mail = 'genzaixd@gmail.com' 
+global.dana = '6282331494758'
+global.pulsa = '62895324080019'
 global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
+global.namebot = 'BOTWA'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.web = 'https://github.com/login'
+global.instagram = 'https://instagram.com/genzai666'
+global.wm = '© Ares'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ Natasya'
+global.wm3 = '© Natasya'
 global.wm4 = '© BotWa'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -29,14 +29,14 @@ global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
-global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
+global.btc = '7PENgipq' //Daftar terlebih dahulu https://api.botcahx.live
 global.lann = 'YOUR_APIKEY_HERE' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
 global.APIs = { 
   tio: 'https://api.botcahx.live',
   alpis: 'https://alpis.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOUR_APIKEY_HERE' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': '7PENgipq' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
