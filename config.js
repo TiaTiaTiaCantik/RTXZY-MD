@@ -2,11 +2,11 @@
 **/
 
 
-global.owner = ['6281395861695', '6282331494758']  
-global.mods = ['6281395861695'] 
-global.prems = ['']
+global.owner = ['6283169391588', '6282331494758']  
+global.mods = ['6283169391588'] 
+global.prems = ['6283169391588']
 global.nameowner = 'Natasya'
-global.numberowner = '' 
+global.numberowner = '6283169391588' 
 global.mail = 'genzaixd@gmail.com' 
 global.dana = '6282331494758'
 global.pulsa = '62895324080019'
